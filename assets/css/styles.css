@@ -75,3 +75,45 @@ body {
   border-radius: 12px;
   display: inline-block;
 }
+
+.site-footer {
+  background: #FFEB01;
+  padding: 60px;
+  color: #003366;
+}
+
+.footer-columns {
+  display: flex;
+  gap: 80px;
+  margin-bottom: 40px;
+}
+
+.footer-col h3 {
+  font-size: 20px;
+  margin-bottom: 12px;
+}
+
+.footer-col ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.footer-col ul li {
+  margin-bottom: 8px;
+}
+
+.footer-col a {
+  text-decoration: none;
+  color: #003366;
+}
+
+.footer-bottom h2 {
+  font-size: 32px;
+  margin: 20px 0 10px;
+}
+
+.footer-bottom p {
+  margin: 0;
+  font-size: 14px;
+}
