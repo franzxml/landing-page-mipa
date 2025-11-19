@@ -59,7 +59,19 @@ body {
   font-weight: 600;
 }
 
+.hero-illustration {
+  margin-right: 120px;
+}
+
 .hero-illustration img {
   width: 360px;
-  margin-right: 120px;
+  display: block;
+  border-radius: 8px;
+}
+
+.image-frame {
+  background: white;
+  padding: 16px;
+  border-radius: 12px;
+  display: inline-block;
 }
