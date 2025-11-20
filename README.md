@@ -47,7 +47,7 @@ Untuk menjalankan proyek ini di komputer lokal Anda:
 
 Proyek ini siap untuk di-*deploy* menggunakan layanan *hosting* statis seperti Vercel atau Netlify.
 
-Status: **Live** (masukkan tautan Vercel Anda di sini jika sudah tersedia)
+Status: **Live** https://website-mipa.vercel.app/
 
 ---
 © 2025 Fakultas MIPA Universitas Tanjungpura.
